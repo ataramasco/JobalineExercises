@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="augmenter-standalone-2.41.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/augmenter-standalone-2.41.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

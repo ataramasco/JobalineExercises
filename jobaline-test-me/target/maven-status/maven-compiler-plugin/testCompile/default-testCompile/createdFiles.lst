@@ -1,0 +1,4 @@
+com\jobaline\uiautomation\tests\example\ArticleSmokeTest.class
+com\jobaline\uiautomation\tests\example\SearchSmokeTest.class
+com\jobaline\uiautomation\tests\example\SearchSmokeTestSteps.class
+com\jobaline\uiautomation\tests\example\ArticleSmokeTestSteps.class

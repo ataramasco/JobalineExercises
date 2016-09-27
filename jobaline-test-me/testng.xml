@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Jobaline GUI Test Suite" verbose="1" parallel="tests"
+       thread-count="10" data-provider-thread-count="10">
+
+
+    <test name="Example-Search" parallel="methods">
+        <groups>
+            <run>
+                <include name="example.search"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.jobaline.uiautomation.tests.example.SearchSmokeTest"/>
+        </classes>
+    </test>
+
+    <test name="Example-Article" parallel="methods">
+        <groups>
+            <run>
+                <include name="example.article"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.jobaline.uiautomation.tests.example.ArticleSmokeTest"/>
+        </classes>
+    </test>
+
+
+</suite>
+

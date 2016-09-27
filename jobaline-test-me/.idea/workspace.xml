@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4935edd3-0e33-4eae-965a-08f031661a47" name="Default" comment="" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_TOOLBAR" value="true" />
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="DEV BOXES" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="CI CI CI CI CI CI CI CI CI CI CI" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="DsmViewSettings">
+    <option name="flattenPackages" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jobaline-web-tests" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+              <folding>
+                <element signature="e#1752#1757#0" expanded="true" />
+                <element signature="e#1771#1776#0" expanded="true" />
+                <element signature="e#1782#1787#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="23" selection-start-line="18" selection-start-column="0" selection-end-line="27" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeleniumWrapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/SeleniumWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="693" column="43" selection-start-line="693" selection-start-column="43" selection-end-line="693" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleSmokeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/ArticleSmokeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleSmokeTestSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/ArticleSmokeTestSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <push-targets>
+      <push-target-info repo="$PROJECT_DIR$/.." source="develop-tests" target-remote="origin" target-branch="develop-tests" />
+      <push-target-info repo="$PROJECT_DIR$/.." source="WEB-6418" target-remote="origin" target-branch="WEB-6418" />
+      <push-target-info repo="$PROJECT_DIR$/.." source="WEB-6512" target-remote="origin" target-branch="WEB-6512" />
+      <push-target-info repo="$PROJECT_DIR$/.." source="WEB-6813" target-remote="origin" target-branch="WEB-6813" />
+    </push-targets>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/admin/brandAdmin/BrandAdminTabs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/admin/career/SearchByCityOrStateTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/admin/career/SearchByCityOrStateTestSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/admin/brandAdmin/CareerPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/search/SearchByTemplateNameTestSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/funnel/ApplyForJobPageValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testsDatabase/matrix/post_job_questions_groups_tests.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/suitesBootstrapData/suite1.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/funnel/skippingQuestions/SkippingQuestions_WhenTwoJobsHaveQuestionsInCommon_AtLeastOneQuestionIsRequired_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/funnel/skippingQuestions/SkippingQuestions_WhenTwoJobsHaveQuestionsInCommon_AllMarkedAsNotRequired_Test.java" />
+        <option value="db-console:/972e8b1/8728c330-b915-4c11-a53a-a05af8e4188d/" />
+        <option value="$PROJECT_DIR$/src/main/resources/testsDatabase/actors/create_employer_actor.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/testsDatabase/dictionaries/brands_standard.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/funnel/skippingQuestions/SkippingQuestions_WhenTwoJobsHaveQuestionsInCommon_AllMarkedAsNotRequired_TestSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testsDatabase/actors/post_job_actor.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/funnel/ApplyForJobPage.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testsDatabase/actors/create_brand_actor.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/model/Brand.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/funnel/skippingQuestions/ApplyViaWebTwiceToJobWithAllQuestionsMarkedAsNotRequiredTestSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/funnel/skippingQuestions/ApplyViaWebTwiceToJobWithAtLeastOneRequiredQuestionPerTypeTestSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/api/ApplicationAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/framework/isElementDisplayed.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/framework/isElementHidden.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/employer/shifts/ShiftsFormFragment.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/suitesBootstrapData/suite2.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidateRow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidatesListPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/constants/Locator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/ui/candRender/candRowDataReader.js" />
+        <option value="$PROJECT_DIR$/.classpath" />
+        <option value="db-console:/972e8b1/f3df4be3-156c-4883-a9c0-205718eeecb6/" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/testng/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/core/ui/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/EnvironmentUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/testng/BaseSeleniumTestV2.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/testLog.vm" />
+        <option value="$PROJECT_DIR$/jobaline-test-me.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/example/amazon/HomePage.java" />
+        <option value="$MAVEN_REPOSITORY$/org/json/json/20150729/json-20150729.jar!/org/json/JSONObject.class" />
+        <option value="$PROJECT_DIR$/src/main/resources/testsDatabase/dictionaries/example.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/example/amazon/ArticulePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/SearchSmokeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/constants/GridsIds.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/BrowserConfigurationFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/SeleniumWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testsDatabase/matrix/example.json" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/ArticleSmokeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/example/amazon/ArticlePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/ArticleSmokeTestSteps.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+          <State>
+            <id>Class metrics</id>
+          </State>
+          <State>
+            <id>Cloning issues</id>
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaBeans issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issues</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSJQueryEfficiency</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-test-me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-test-me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-test-me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-test-me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-test-me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiautomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-web-tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobaline-test-me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uiautomation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amazon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.48145026" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.splitter.main.proportions" value="0.29819617" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="342" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="370" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="379" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1374" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="336" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="372" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="381" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1376" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jobaline.uiautomation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/js/framework" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/phantomJsThreeHourTimeoutFix" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/testsDatabase/dictionaries" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jobaline.uiautomation.tests.example" />
+      <recent name="com.jobaline.uiautomation.application.ui.example.amazon" />
+      <recent name="com.jobaline.uiautomation.framework.selenium.phantomJsDriverPatch" />
+      <recent name="com.jobaline.uiautomation.tests.debug" />
+      <recent name="com.jobaline.uiautomation.tasks.suitesBootstrap" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/testsDatabase/matrix" />
+      <recent name="$PROJECT_DIR$/src/test/resources/resume" />
+      <recent name="$PROJECT_DIR$/src/test/resources/js/shared/pages/applyForJob" />
+      <recent name="$PROJECT_DIR$/src/main/resources/suites" />
+      <recent name="$PROJECT_DIR$/src/main/resources/bootstrapData/dictionaries" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.selgrid">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/augmenter-standalone-2.41.0.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jobaline-web-tests" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="jobaline" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-e" />
+                <option value="-Dtests.testnames=Example-Search" />
+                <option value="-Dtests.browserConfigurations=TESTERLOCAL_PHANTOMJS" />
+                <option value="-Dtests.gridId=1" />
+                <option value="-Dtests.isGrid=0" />
+                <option value="-Dtests.isCIMachine=0" />
+                <option value="-Dtests.isTesterMachine=1" />
+                <option value="-Dtests.testdatabase=1" />
+                <option value="-Dtests.takeInHouseScreenshots=1" />
+                <option value="-Dtests.casperJSPath=C:\casperjs\bin" />
+                <option value="-Dtests.phantomJSPath=C:\phantomjs\bin\phantomjs.exe" />
+                <option value="-Dtests.localBrowserBinaryPath=\phantomjs\bin\phantomjs.exe" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="selgrid" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-e" />
+                <option value="-Dtests.testnames=Example-Article" />
+                <option value="-Dtests.browserConfigurations=TESTERGRID_WINDOWS_CHROME" />
+                <option value="-Dtests.gridId=1" />
+                <option value="-Dtests.isGrid=1" />
+                <option value="-Dtests.isCIMachine=0" />
+                <option value="-Dtests.isTesterMachine=1" />
+                <option value="-Dtests.testdatabase=1" />
+                <option value="-Dtests.takeInHouseScreenshots=1" />
+                <option value="-Dtests.casperJSPath=C:\casperjs\bin" />
+                <option value="-Dtests.phantomJSPath=C:\phantomjs\bin\phantomjs.exe" />
+                <option value="-Dtests.localBrowserBinaryPath=\phantomjs\bin\phantomjs.exe" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="ci" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-e" />
+                <option value="-Dtests.testnames=Example-Search" />
+                <option value="-Dtests.browserConfigurations=TESTERLOCAL_PHANTOMJS" />
+                <option value="-Dtests.gridId=1" />
+                <option value="-Dtests.isGrid=0" />
+                <option value="-Dtests.isCIMachine=0" />
+                <option value="-Dtests.isTesterMachine=1" />
+                <option value="-Dtests.testdatabase=1" />
+                <option value="-Dtests.takeInHouseScreenshots=1" />
+                <option value="-Dtests.casperJSPath=/Users/damian.j/Desktop/dev/casperjs/n1k0-casperjs-7dece42/bin/casperjs" />
+                <option value="-Dtests.phantomJSPath=/Users/damian.j/Desktop/dev/phantomjs/phantomjs-1.9.8-macosx/bin/phantomjs" />
+                <option value="-Dtests.localBrowserBinaryPath=/Users/damian.j/Desktop/dev/phantomjs/phantomjs-1.9.8-macosx/bin/phantomjs" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="prod" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-e" />
+                <option value="-Dtests.testnames=EMPTY" />
+                <option value="-Dtests.browserConfigurations=TESTERLOCAL_PHANTOMJS" />
+                <option value="-Dtests.stagingDomain=.jobaline.com" />
+                <option value="-Dtests.prodTesting=true" />
+                <option value="-Dtests.testConfigurationFile=testng-prod.xml" />
+                <option value="-Dtests.gridId=3" />
+                <option value="-Dtests.isGrid=0" />
+                <option value="-Dtests.isCIMachine=0" />
+                <option value="-Dtests.isTesterMachine=1" />
+                <option value="-Dtests.localTwilioNumberForTesting=(425) 654-4305" />
+                <option value="-Daws.accessKeyId=AKIAI5VSX3YES55GFH6A" />
+                <option value="-Daws.secretKey=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" />
+                <option value="-Dtests.casperJSPath=/Users/damian.j/Desktop/dev/casperjs/n1k0-casperjs-7dece42/bin/casperjs" />
+                <option value="-Dtests.phantomJSPath=/Users/damian.j/Desktop/dev/phantomjs/phantomjs-1.9.8-macosx/bin/phantomjs" />
+                <option value="-Dtests.localBrowserBinaryPath=/Users/damian.j/Desktop/dev/phantomjs/phantomjs-1.9.8-macosx/bin/phantomjs" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit tests" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-f" />
+                <option value="pom-unit.xml" />
+                <option value="clean" />
+                <option value="test" />
+                <option value="-e" />
+                <option value="-Dtests.prodTesting=false" />
+                <option value="-Dtests.testnames=Feeds" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Maven.jobaline" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.selgrid" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.ci" />
+      <item index="3" class="java.lang.String" itemvalue="Maven.prod" />
+      <item index="4" class="java.lang.String" itemvalue="Maven.unit tests" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StatisticProjectComponent">
+    <option name="excludeCompilerOutput" value="true" />
+    <option name="excludeIdea9ArtifactDirectory" value="true" />
+    <option name="excludeTargetDirectories" value="true" />
+    <option name="activateWhenOpenProject" value="true" />
+    <option name="excludedDirectories">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="fileTypes" value="class;svn-base;svn-work;Extra;gif;png;jpg;jpeg;bmp;tga;tiff;ear;war;zip;jar;iml;iws;ipr;bz2;gz;" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4935edd3-0e33-4eae-965a-08f031661a47" name="Default" comment="" />
+      <created>1412804513587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1412804513587</updated>
+      <workItem from="1412804514816" duration="12639000" />
+      <workItem from="1412871975748" duration="34378000" />
+      <workItem from="1412958835703" duration="1739000" />
+      <workItem from="1412960583941" duration="18922000" />
+      <workItem from="1441908588354" duration="33733000" />
+      <workItem from="1442008240608" duration="38072000" />
+      <workItem from="1442277685233" duration="188652000" />
+      <workItem from="1443135621713" duration="32814000" />
+      <workItem from="1443458437226" duration="8674000" />
+      <workItem from="1443474422802" duration="3941000" />
+      <workItem from="1443480138747" duration="205104000" />
+      <workItem from="1444258878551" duration="209906000" />
+      <workItem from="1445449434229" duration="246153000" />
+      <workItem from="1446677031206" duration="86000" />
+      <workItem from="1446677342620" duration="125000" />
+      <workItem from="1446677722251" duration="35520000" />
+      <workItem from="1446858764392" duration="26230000" />
+      <workItem from="1447118852773" duration="96166000" />
+      <workItem from="1447789399108" duration="9000" />
+      <workItem from="1447790864399" duration="9000" />
+      <workItem from="1447790880487" duration="1000" />
+      <workItem from="1447790928872" duration="25000" />
+      <workItem from="1447868906879" duration="43770000" />
+      <workItem from="1447983590964" duration="1772000" />
+      <workItem from="1448048526080" duration="410000" />
+      <workItem from="1448054017160" duration="11968000" />
+      <workItem from="1448067685911" duration="1595000" />
+      <workItem from="1448300932244" duration="5871000" />
+      <workItem from="1448310737215" duration="6176000" />
+      <workItem from="1448389220436" duration="6604000" />
+      <workItem from="1448399113276" duration="34159000" />
+      <workItem from="1448909673145" duration="415000" />
+      <workItem from="1448910272264" duration="10109000" />
+      <workItem from="1448927210526" duration="101511000" />
+      <workItem from="1451411244503" duration="118151000" />
+      <workItem from="1452284180449" duration="52636000" />
+      <workItem from="1452624039906" duration="242971000" />
+      <workItem from="1453743661543" duration="269626000" />
+      <workItem from="1455066424459" duration="31530000" />
+      <workItem from="1455217603730" duration="31298000" />
+      <workItem from="1455577289064" duration="367075000" />
+      <workItem from="1457584674563" duration="240755000" />
+      <workItem from="1459183132608" duration="113583000" />
+      <workItem from="1460601572484" duration="6111000" />
+      <workItem from="1460669199459" duration="167289000" />
+      <workItem from="1462815091582" duration="28100000" />
+      <workItem from="1463011231907" duration="195844000" />
+      <workItem from="1465492336007" duration="54044000" />
+      <workItem from="1466617016470" duration="10806000" />
+      <workItem from="1467168999986" duration="56306000" />
+      <workItem from="1467845053911" duration="80593000" />
+      <workItem from="1469578472291" duration="15263000" />
+      <workItem from="1470160400641" duration="13057000" />
+      <workItem from="1470697108434" duration="9985000" />
+      <workItem from="1470871747974" duration="4541000" />
+      <workItem from="1471642658791" duration="482000" />
+      <workItem from="1472065612142" duration="18742000" />
+      <workItem from="1472256409072" duration="3777000" />
+      <workItem from="1472262821798" duration="64448000" />
+    </task>
+    <task id="LOCAL-00542" summary="adding missing config for afour grid">
+      <created>1466465937022</created>
+      <option name="number" value="00542" />
+      <option name="presentableId" value="LOCAL-00542" />
+      <option name="project" value="LOCAL" />
+      <updated>1466465937024</updated>
+    </task>
+    <task id="LOCAL-00543" summary="adding missing config for afour grid">
+      <created>1466471085258</created>
+      <option name="number" value="00543" />
+      <option name="presentableId" value="LOCAL-00543" />
+      <option name="project" value="LOCAL" />
+      <updated>1466471085260</updated>
+    </task>
+    <task id="LOCAL-00544" summary="updating Sauce Labs browser config">
+      <created>1466482751472</created>
+      <option name="number" value="00544" />
+      <option name="presentableId" value="LOCAL-00544" />
+      <option name="project" value="LOCAL" />
+      <updated>1466482751474</updated>
+    </task>
+    <task id="LOCAL-00545" summary="adding tests to suite 1">
+      <created>1466652602409</created>
+      <option name="number" value="00545" />
+      <option name="presentableId" value="LOCAL-00545" />
+      <option name="project" value="LOCAL" />
+      <updated>1466652602409</updated>
+    </task>
+    <task id="LOCAL-00546" summary="fixing script to read data name">
+      <created>1466658244563</created>
+      <option name="number" value="00546" />
+      <option name="presentableId" value="LOCAL-00546" />
+      <option name="project" value="LOCAL" />
+      <updated>1466658244563</updated>
+    </task>
+    <task id="LOCAL-00547" summary="updating tests for bootstrap changes in my jobs and my cands WIP">
+      <created>1467251759181</created>
+      <option name="number" value="00547" />
+      <option name="presentableId" value="LOCAL-00547" />
+      <option name="project" value="LOCAL" />
+      <updated>1467251759184</updated>
+    </task>
+    <task id="LOCAL-00548" summary="updating tests for bootstrap changes in my jobs and my cands WIP">
+      <created>1467316126387</created>
+      <option name="number" value="00548" />
+      <option name="presentableId" value="LOCAL-00548" />
+      <option name="project" value="LOCAL" />
+      <updated>1467316126389</updated>
+    </task>
+    <task id="LOCAL-00549" summary="Merge branch 'develop-tests' into WEB-6894-tests-updates&#10;&#10;Conflicts:&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/myJobsPage/MyJobsPage.java&#10;">
+      <created>1467317917524</created>
+      <option name="number" value="00549" />
+      <option name="presentableId" value="LOCAL-00549" />
+      <option name="project" value="LOCAL" />
+      <updated>1467317917526</updated>
+    </task>
+    <task id="LOCAL-00550" summary="updating tests after my cands having bootstrap upgraded">
+      <created>1467330457852</created>
+      <option name="number" value="00550" />
+      <option name="presentableId" value="LOCAL-00550" />
+      <option name="project" value="LOCAL" />
+      <updated>1467330457854</updated>
+    </task>
+    <task id="LOCAL-00551" summary="fixing empty string issue in test definition file">
+      <created>1467394232253</created>
+      <option name="number" value="00551" />
+      <option name="presentableId" value="LOCAL-00551" />
+      <option name="project" value="LOCAL" />
+      <updated>1467394232255</updated>
+    </task>
+    <task id="LOCAL-00552" summary="Merge branch 'develop-tests' into WEB-5613&#10;&#10;Conflicts:&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidateRow.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidatesListPage.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/constants/Locator.java&#10;&#9;jobaline-web-tests/src/main/resources/testsDatabase/actors/create_brand_actor.json&#10;&#9;jobaline-web-tests/src/main/resources/testsDatabase/actors/create_employer_actor.json&#10;">
+      <created>1467773328518</created>
+      <option name="number" value="00552" />
+      <option name="presentableId" value="LOCAL-00552" />
+      <option name="project" value="LOCAL" />
+      <updated>1467773328520</updated>
+    </task>
+    <task id="LOCAL-00553" summary="Fixing script reading full time shifts answer from my cands page">
+      <created>1467826719585</created>
+      <option name="number" value="00553" />
+      <option name="presentableId" value="LOCAL-00553" />
+      <option name="project" value="LOCAL" />
+      <updated>1467826719587</updated>
+    </task>
+    <task id="LOCAL-00554" summary="small changes on logging messages">
+      <created>1467846034288</created>
+      <option name="number" value="00554" />
+      <option name="presentableId" value="LOCAL-00554" />
+      <option name="project" value="LOCAL" />
+      <updated>1467846034289</updated>
+    </task>
+    <task id="LOCAL-00555" summary="small changes on logging messages">
+      <created>1467847395905</created>
+      <option name="number" value="00555" />
+      <option name="presentableId" value="LOCAL-00555" />
+      <option name="project" value="LOCAL" />
+      <updated>1467847395905</updated>
+    </task>
+    <task id="LOCAL-00556" summary="Finishing test and removing outdated test coming from a branch that still did not got merged">
+      <created>1467853607811</created>
+      <option name="number" value="00556" />
+      <option name="presentableId" value="LOCAL-00556" />
+      <option name="project" value="LOCAL" />
+      <updated>1467853607811</updated>
+    </task>
+    <task id="LOCAL-00557" summary="removing duplicate entry in create brand actor">
+      <created>1467853755483</created>
+      <option name="number" value="00557" />
+      <option name="presentableId" value="LOCAL-00557" />
+      <option name="project" value="LOCAL" />
+      <updated>1467853755483</updated>
+    </task>
+    <task id="LOCAL-00558" summary="adding missing file to previos commit">
+      <created>1467854162740</created>
+      <option name="number" value="00558" />
+      <option name="presentableId" value="LOCAL-00558" />
+      <option name="project" value="LOCAL" />
+      <updated>1467854162740</updated>
+    </task>
+    <task id="LOCAL-00559" summary="Fixing file name references broken by casing">
+      <created>1467854294326</created>
+      <option name="number" value="00559" />
+      <option name="presentableId" value="LOCAL-00559" />
+      <option name="project" value="LOCAL" />
+      <updated>1467854294326</updated>
+    </task>
+    <task id="LOCAL-00560" summary="Updating test group name in devbox suite config">
+      <created>1467854668712</created>
+      <option name="number" value="00560" />
+      <option name="presentableId" value="LOCAL-00560" />
+      <option name="project" value="LOCAL" />
+      <updated>1467854668712</updated>
+    </task>
+    <task id="LOCAL-00561" summary="WEB-5613 CC">
+      <created>1467929249209</created>
+      <option name="number" value="00561" />
+      <option name="presentableId" value="LOCAL-00561" />
+      <option name="project" value="LOCAL" />
+      <updated>1467929249210</updated>
+    </task>
+    <task id="LOCAL-00562" summary="trying out Testing Bot">
+      <created>1468031806988</created>
+      <option name="number" value="00562" />
+      <option name="presentableId" value="LOCAL-00562" />
+      <option name="project" value="LOCAL" />
+      <updated>1468031806988</updated>
+    </task>
+    <task id="LOCAL-00563" summary="Making a few brand zero employer tests to run in sequence since can not post multiple job from same account at the same time. Skipping test from running in IE9 due to bug WEB-5478.">
+      <created>1468273212802</created>
+      <option name="number" value="00563" />
+      <option name="presentableId" value="LOCAL-00563" />
+      <option name="project" value="LOCAL" />
+      <updated>1468273212802</updated>
+    </task>
+    <task id="LOCAL-00564" summary="testing appium">
+      <created>1472258912099</created>
+      <option name="number" value="00564" />
+      <option name="presentableId" value="LOCAL-00564" />
+      <option name="project" value="LOCAL" />
+      <updated>1472258912100</updated>
+    </task>
+    <task id="LOCAL-00565" summary="testing appium">
+      <created>1472259189382</created>
+      <option name="number" value="00565" />
+      <option name="presentableId" value="LOCAL-00565" />
+      <option name="project" value="LOCAL" />
+      <updated>1472259189383</updated>
+    </task>
+    <task id="LOCAL-00566" summary="Migrating some Selenium/WebDriver commands to Javascript to avoid compatibility issues throughout different WebDriver implementations">
+      <created>1473803060749</created>
+      <option name="number" value="00566" />
+      <option name="presentableId" value="LOCAL-00566" />
+      <option name="project" value="LOCAL" />
+      <updated>1473803060749</updated>
+    </task>
+    <task id="LOCAL-00567" summary="Avoiding to use WebElement class in order to minimize the usage of the Selenium/WebDriver API and to rely more in javascript">
+      <created>1473810284805</created>
+      <option name="number" value="00567" />
+      <option name="presentableId" value="LOCAL-00567" />
+      <option name="project" value="LOCAL" />
+      <updated>1473810284805</updated>
+    </task>
+    <task id="LOCAL-00568" summary="Removing extra quotes from javascript code">
+      <created>1473878665673</created>
+      <option name="number" value="00568" />
+      <option name="presentableId" value="LOCAL-00568" />
+      <option name="project" value="LOCAL" />
+      <updated>1473878665674</updated>
+    </task>
+    <task id="LOCAL-00569" summary="fixing code assuming org picker is always present when it is not always the case">
+      <created>1473888115659</created>
+      <option name="number" value="00569" />
+      <option name="presentableId" value="LOCAL-00569" />
+      <option name="project" value="LOCAL" />
+      <updated>1473888115659</updated>
+    </task>
+    <task id="LOCAL-00570" summary="fixing organization name in test input data">
+      <created>1473890998072</created>
+      <option name="number" value="00570" />
+      <option name="presentableId" value="LOCAL-00570" />
+      <option name="project" value="LOCAL" />
+      <updated>1473890998072</updated>
+    </task>
+    <task id="LOCAL-00571" summary="fixing organization name in test input data">
+      <created>1473891622002</created>
+      <option name="number" value="00571" />
+      <option name="presentableId" value="LOCAL-00571" />
+      <option name="project" value="LOCAL" />
+      <updated>1473891622002</updated>
+    </task>
+    <task id="LOCAL-00572" summary="fixing organization name in test input data">
+      <created>1473892059896</created>
+      <option name="number" value="00572" />
+      <option name="presentableId" value="LOCAL-00572" />
+      <option name="project" value="LOCAL" />
+      <updated>1473892059897</updated>
+    </task>
+    <task id="LOCAL-00573" summary="Disabling new test that is breaking others. Also, using more appropriate API and css selector.">
+      <created>1473894016407</created>
+      <option name="number" value="00573" />
+      <option name="presentableId" value="LOCAL-00573" />
+      <option name="project" value="LOCAL" />
+      <updated>1473894016407</updated>
+    </task>
+    <task id="LOCAL-00574" summary="Removing test from suite configuration file. Test groups must be specified there, not an individual test.">
+      <created>1473894173892</created>
+      <option name="number" value="00574" />
+      <option name="presentableId" value="LOCAL-00574" />
+      <option name="project" value="LOCAL" />
+      <updated>1473894173892</updated>
+    </task>
+    <task id="LOCAL-00575" summary="formatting class...">
+      <created>1473894874532</created>
+      <option name="number" value="00575" />
+      <option name="presentableId" value="LOCAL-00575" />
+      <option name="project" value="LOCAL" />
+      <updated>1473894874532</updated>
+    </task>
+    <task id="LOCAL-00576" summary="simplifying a little bit and removing text accidentally pasted">
+      <created>1473895084689</created>
+      <option name="number" value="00576" />
+      <option name="presentableId" value="LOCAL-00576" />
+      <option name="project" value="LOCAL" />
+      <updated>1473895084689</updated>
+    </task>
+    <task id="LOCAL-00577" summary="Fixing test that was not using the correct api to click plain links and simplifying things">
+      <created>1473897168093</created>
+      <option name="number" value="00577" />
+      <option name="presentableId" value="LOCAL-00577" />
+      <option name="project" value="LOCAL" />
+      <updated>1473897168093</updated>
+    </task>
+    <task id="LOCAL-00578" summary="removing obsolete tests about questions groups">
+      <created>1473898842286</created>
+      <option name="number" value="00578" />
+      <option name="presentableId" value="LOCAL-00578" />
+      <option name="project" value="LOCAL" />
+      <updated>1473898842287</updated>
+    </task>
+    <task id="LOCAL-00579" summary="removing obsolete tests about questions groups">
+      <created>1473898863005</created>
+      <option name="number" value="00579" />
+      <option name="presentableId" value="LOCAL-00579" />
+      <option name="project" value="LOCAL" />
+      <updated>1473898863006</updated>
+    </task>
+    <task id="LOCAL-00580" summary="fixing test that was failing randomly because minimum requirements with variables are not used">
+      <created>1473902074846</created>
+      <option name="number" value="00580" />
+      <option name="presentableId" value="LOCAL-00580" />
+      <option name="project" value="LOCAL" />
+      <updated>1473902074847</updated>
+    </task>
+    <task id="LOCAL-00581" summary="fixing missing brand entry in actor config">
+      <created>1473954944688</created>
+      <option name="number" value="00581" />
+      <option name="presentableId" value="LOCAL-00581" />
+      <option name="project" value="LOCAL" />
+      <updated>1473954944688</updated>
+    </task>
+    <task id="LOCAL-00582" summary="making legal docs data driven optional for some tests that not need them">
+      <created>1473957580321</created>
+      <option name="number" value="00582" />
+      <option name="presentableId" value="LOCAL-00582" />
+      <option name="project" value="LOCAL" />
+      <updated>1473957580321</updated>
+    </task>
+    <task id="LOCAL-00583" summary="updating sauce labs iphone and ipad devices">
+      <created>1473962432639</created>
+      <option name="number" value="00583" />
+      <option name="presentableId" value="LOCAL-00583" />
+      <option name="project" value="LOCAL" />
+      <updated>1473962432640</updated>
+    </task>
+    <task id="LOCAL-00584" summary="pointing tests to run in sauce labs devices">
+      <created>1473964392317</created>
+      <option name="number" value="00584" />
+      <option name="presentableId" value="LOCAL-00584" />
+      <option name="project" value="LOCAL" />
+      <updated>1473964392318</updated>
+    </task>
+    <task id="LOCAL-00585" summary="considering also css visibility property to determine if an element is displayed or not">
+      <created>1473972724956</created>
+      <option name="number" value="00585" />
+      <option name="presentableId" value="LOCAL-00585" />
+      <option name="project" value="LOCAL" />
+      <updated>1473972724956</updated>
+    </task>
+    <task id="LOCAL-00586" summary="skipping IE9 for a test since the feature is not working in such browser, see WEB-5478">
+      <created>1473975793581</created>
+      <option name="number" value="00586" />
+      <option name="presentableId" value="LOCAL-00586" />
+      <option name="project" value="LOCAL" />
+      <updated>1473975793581</updated>
+    </task>
+    <task id="LOCAL-00587" summary="Forcing IE driver to start the browser using another API to avoid issue https://github.com/seleniumhq/selenium-google-code-issue-archive/issues/7045">
+      <created>1473981760451</created>
+      <option name="number" value="00587" />
+      <option name="presentableId" value="LOCAL-00587" />
+      <option name="project" value="LOCAL" />
+      <updated>1473981760451</updated>
+    </task>
+    <task id="LOCAL-00588" summary="Fixing shifts tests that were accidentally requiring element to be displayed when it is not necessary">
+      <created>1473983804579</created>
+      <option name="number" value="00588" />
+      <option name="presentableId" value="LOCAL-00588" />
+      <option name="project" value="LOCAL" />
+      <updated>1473983804579</updated>
+    </task>
+    <task id="LOCAL-00589" summary="Small changes to brand zero post job tests, basically making them to run in sequence because there is a low priority concurrency bug affecting only marketplace employers that is not planned to be fixed soon">
+      <created>1473985887305</created>
+      <option name="number" value="00589" />
+      <option name="presentableId" value="LOCAL-00589" />
+      <option name="project" value="LOCAL" />
+      <updated>1473985887305</updated>
+    </task>
+    <task id="LOCAL-00590" summary="Merge branch 'develop-tests' into WEB-6894-tests-updates&#10;&#10;Conflicts:&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidateRow.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidatesListPage.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/constants/Locator.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/framework/selenium/SeleniumWrapper.java&#10;&#9;jobaline-web-tests/src/main/resources/js/ui/candRender/candRowDataReader.js&#10;">
+      <created>1474058835855</created>
+      <option name="number" value="00590" />
+      <option name="presentableId" value="LOCAL-00590" />
+      <option name="project" value="LOCAL" />
+      <updated>1474058835855</updated>
+    </task>
+    <option name="localTasksCounter" value="591" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3614291000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38242474" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4637224" sideWeight="0.2979094" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44258374" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32927817" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47160885" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.284041" sideWeight="0.49925038" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30441642" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29186603" sideWeight="0.50074965" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6687697" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.39992025" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4160584" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16148326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="DSM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="100" y="122" width="2360" height="1130" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37145174" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28706625" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3949716" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42497972" sideWeight="0.7020906" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="trying out Testing Bot" />
+    <MESSAGE value="Making a few brand zero employer tests to run in sequence since can not post multiple job from same account at the same time. Skipping test from running in IE9 due to bug WEB-5478." />
+    <MESSAGE value="testing appium" />
+    <MESSAGE value="Migrating some Selenium/WebDriver commands to Javascript to avoid compatibility issues throughout different WebDriver implementations" />
+    <MESSAGE value="Avoiding to use WebElement class in order to minimize the usage of the Selenium/WebDriver API and to rely more in javascript" />
+    <MESSAGE value="Removing extra quotes from javascript code" />
+    <MESSAGE value="fixing code assuming org picker is always present when it is not always the case" />
+    <MESSAGE value="fixing organization name in test input data" />
+    <MESSAGE value="Disabling new test that is breaking others. Also, using more appropriate API and css selector." />
+    <MESSAGE value="Removing test from suite configuration file. Test groups must be specified there, not an individual test." />
+    <MESSAGE value="formatting class..." />
+    <MESSAGE value="simplifying a little bit and removing text accidentally pasted" />
+    <MESSAGE value="Fixing test that was not using the correct api to click plain links and simplifying things" />
+    <MESSAGE value="removing obsolete tests about questions groups" />
+    <MESSAGE value="fixing test that was failing randomly because minimum requirements with variables are not used" />
+    <MESSAGE value="fixing missing brand entry in actor config" />
+    <MESSAGE value="making legal docs data driven optional for some tests that not need them" />
+    <MESSAGE value="updating sauce labs iphone and ipad devices" />
+    <MESSAGE value="pointing tests to run in sauce labs devices" />
+    <MESSAGE value="considering also css visibility property to determine if an element is displayed or not" />
+    <MESSAGE value="skipping IE9 for a test since the feature is not working in such browser, see WEB-5478" />
+    <MESSAGE value="Forcing IE driver to start the browser using another API to avoid issue https://github.com/seleniumhq/selenium-google-code-issue-archive/issues/7045" />
+    <MESSAGE value="Fixing shifts tests that were accidentally requiring element to be displayed when it is not necessary" />
+    <MESSAGE value="Small changes to brand zero post job tests, basically making them to run in sequence because there is a low priority concurrency bug affecting only marketplace employers that is not planned to be fixed soon" />
+    <MESSAGE value="Merge branch 'develop-tests' into WEB-6894-tests-updates&#10;&#10;Conflicts:&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidateRow.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidatesListPage.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/constants/Locator.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/framework/selenium/SeleniumWrapper.java&#10;&#9;jobaline-web-tests/src/main/resources/js/ui/candRender/candRowDataReader.js&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'develop-tests' into WEB-6894-tests-updates&#10;&#10;Conflicts:&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidateRow.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/application/ui/employer/candidatesListPage/CandidatesListPage.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/constants/Locator.java&#10;&#9;jobaline-web-tests/src/main/java/com/jobaline/uiautomation/framework/selenium/SeleniumWrapper.java&#10;&#9;jobaline-web-tests/src/main/resources/js/ui/candRender/candRowDataReader.js&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/SeleniumWrapper.java</url>
+          <line>382</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="29" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/email/ReceiveEmailHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/core/orchestrator/database/DynamoTestDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/TimeoutWaitingForPageToLoadException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/testng/retry/ifBadBrowsers/RetryNTimesIfBadBrowser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/testng/retry/ifBadBrowsers/RetryFourTimesIfBadBrowser.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/employer/myJobs/EditJobValidatesInvalidZipCodesTestSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/generators/IdGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/services/sms/SmsProviderFactory.java" />
+    <entry file="file://$PROJECT_DIR$/jobaline-test-me.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/framework/checkBoxModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/casperjs/CasperJS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="807" column="42" selection-start-line="807" selection-start-column="32" selection-end-line="807" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/ui/example/searchResultsReader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testLog.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/form/FormModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/form/ElementModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/IHasAccessToSelenium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/core/ui/BasePageFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/example/amazon/SearchResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/browsers/FirefoxWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/browsers/ChromeWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/constants/GridsIds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="38" column="87" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/EnvironmentUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="80" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2058#2059#0" expanded="false" />
+            <element signature="e#2103#2104#0" expanded="false" />
+            <element signature="e#4861#4862#0" expanded="false" />
+            <element signature="e#4909#4910#0" expanded="false" />
+            <element signature="e#9917#9918#0" expanded="false" />
+            <element signature="e#9976#9977#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/BrowserConfigurationFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="118" column="59" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#8503#8504#0" expanded="false" />
+            <element signature="e#8551#8552#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/SeleniumUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="78" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20150729/json-20150729.jar!/org/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/testng/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/core/orchestrator/actor/entityDependencyResolver/MatrixActor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/core/orchestrator/database/TestDatabaseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="68" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/testng/BaseSeleniumTestV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="659" column="29" selection-start-line="659" selection-start-column="16" selection-end-line="659" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/example/amazon/SearchForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2669">
+          <caret line="171" column="5" selection-start-line="168" selection-start-column="4" selection-end-line="171" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7106">
+          <caret line="484" column="0" selection-start-line="484" selection-start-column="0" selection-end-line="484" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/framework/isElementDisplayed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/example/amazon/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/BrowserConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="141" column="0" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <element signature="e#3178#3179#0" expanded="true" />
+            <element signature="e#3245#3246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/annotations/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-626">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/core/ui/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="269" column="35" selection-start-line="269" selection-start-column="34" selection-end-line="269" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4063#4064#0" expanded="false" />
+            <element signature="e#4114#4115#0" expanded="false" />
+            <element signature="e#7787#7788#0" expanded="false" />
+            <element signature="e#7829#7830#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testsDatabase/dictionaries/example.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testsDatabase/matrix/example.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" selection-start-line="18" selection-start-column="0" selection-end-line="27" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/application/ui/example/amazon/ArticlePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/SearchSmokeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/SearchSmokeTestSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/ArticleSmokeTestSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jobaline/uiautomation/framework/selenium/SeleniumWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="693" column="43" selection-start-line="693" selection-start-column="43" selection-end-line="693" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+          <folding>
+            <element signature="e#1752#1757#0" expanded="true" />
+            <element signature="e#1771#1776#0" expanded="true" />
+            <element signature="e#1782#1787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jobaline/uiautomation/tests/example/ArticleSmokeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tests</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48145026" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>selenium-remote-driver-standalone-2.41.0-patched</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48145026" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Jobaline GUI Test Suite" duration-ms="35445" started-at="2016-09-27T17:49:03Z" finished-at="2016-09-27T17:49:38Z">
+    <groups>
+      <group name="example.article">
+        <method signature="ArticleSmokeTest.test()[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="test" class="com.jobaline.uiautomation.tests.example.ArticleSmokeTest"/>
+      </group> <!-- example.article -->
+    </groups>
+    <test name="Example-Article" duration-ms="35445" started-at="2016-09-27T17:49:03Z" finished-at="2016-09-27T17:49:38Z">
+      <class name="com.jobaline.uiautomation.tests.example.ArticleSmokeTest">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="beforeSuite" is-config="true" duration-ms="307" started-at="2016-09-27T14:49:03Z" finished-at="2016-09-27T14:49:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@79a1730e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod_InitTest(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="beforeMethod_InitTest" is-config="true" duration-ms="4" started-at="2016-09-27T14:49:03Z" finished-at="2016-09-27T14:49:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.jobaline.uiautomation.tests.example.ArticleSmokeTest.test()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@a51ee41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod_InitTest -->
+        <test-method status="PASS" signature="beforeMethod_GetTestData(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="beforeMethod_GetTestData" is-config="true" duration-ms="153" started-at="2016-09-27T14:49:03Z" depends-on-methods="com.jobaline.uiautomation.framework.testng.BaseSeleniumTestV2.beforeMethod_InitTest" finished-at="2016-09-27T14:49:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.jobaline.uiautomation.tests.example.ArticleSmokeTest.test()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@a51ee41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod_GetTestData -->
+        <test-method status="PASS" signature="beforeMethod_InitSeleniumTest(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="beforeMethod_InitSeleniumTest" is-config="true" duration-ms="1" started-at="2016-09-27T14:49:03Z" depends-on-methods="com.jobaline.uiautomation.framework.testng.BaseSeleniumTestV2.beforeMethod_GetTestData" finished-at="2016-09-27T14:49:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.jobaline.uiautomation.tests.example.ArticleSmokeTest.test()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@a51ee41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod_InitSeleniumTest -->
+        <test-method status="PASS" signature="beforeMethod_InitBrowser(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="beforeMethod_InitBrowser" is-config="true" duration-ms="9815" started-at="2016-09-27T14:49:03Z" depends-on-methods="com.jobaline.uiautomation.framework.testng.BaseSeleniumTestV2.beforeMethod_InitSeleniumTest" finished-at="2016-09-27T14:49:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.jobaline.uiautomation.tests.example.ArticleSmokeTest.test()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@a51ee41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod_InitBrowser -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="test" duration-ms="21881" started-at="2016-09-27T14:49:13Z" finished-at="2016-09-27T14:49:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod_CloseBrowser(org.testng.ITestResult, java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="afterMethod_CloseBrowser" is-config="true" duration-ms="3551" started-at="2016-09-27T14:49:35Z" finished-at="2016-09-27T14:49:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=ArticleSmokeTest.test()[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.jobaline.uiautomation.tests.example.ArticleSmokeTest.test()]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@a51ee41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod_CloseBrowser -->
+        <test-method status="PASS" signature="afterMethod_PrintTestFooter(org.testng.ITestResult, java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="afterMethod_PrintTestFooter" is-config="true" duration-ms="1" started-at="2016-09-27T14:49:38Z" depends-on-methods="com.jobaline.uiautomation.framework.testng.BaseSeleniumTestV2.afterMethod_CloseBrowser" finished-at="2016-09-27T14:49:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=ArticleSmokeTest.test()[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.jobaline.uiautomation.tests.example.ArticleSmokeTest.test()]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@a51ee41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod_PrintTestFooter -->
+        <test-method status="PASS" signature="afterMethod_EndTest(org.testng.ITestResult, java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="afterMethod_EndTest" is-config="true" duration-ms="0" started-at="2016-09-27T14:49:38Z" finished-at="2016-09-27T14:49:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=ArticleSmokeTest.test()[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.jobaline.uiautomation.tests.example.ArticleSmokeTest.test()]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@a51ee41]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod_EndTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.jobaline.uiautomation.tests.example.ArticleSmokeTest@29400267]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-09-27T14:49:39Z" finished-at="2016-09-27T14:49:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@79a1730e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.jobaline.uiautomation.tests.example.ArticleSmokeTest -->
+    </test> <!-- Example-Article -->
+  </suite> <!-- Jobaline GUI Test Suite -->
+</testng-results>

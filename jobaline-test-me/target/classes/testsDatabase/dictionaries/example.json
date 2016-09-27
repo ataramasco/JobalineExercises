@@ -1,0 +1,23 @@
+[
+  {
+    "id": "search_data_0",
+    "data": {
+        "category": "all",
+        "text": "chair"
+    }
+  },
+  {
+    "id": "search_data_1",
+    "data": {
+        "category": "all",
+        "text": "desk"
+    }
+  },
+  {
+    "id": "search_data_2",
+    "data": {
+      "category": "all",
+      "text": "Wastebasket"
+    }
+  }
+]

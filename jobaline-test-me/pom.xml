@@ -1,0 +1,366 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.jobaline.uiautomation</groupId>
+	<artifactId>tests</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Jobaline web testing</name>
+
+	<!-- All Configurable Properties goes here.
+	If they are defined in the running configuration (when locally) or in the Jenkins Jobs, values that appears here
+	will be overwritten.
+	After, in order to be available from Java Files, they need to be added into the SystemProperties Section of the
+	Plugin section.
+	-->
+	<properties>
+
+		<!--
+        Note that the subdomain will be concatenated without including the dot symbol, so if you put here: jobalinestaging.com it won't work. You must put: .jobalinestaging.com.
+        It was defined this way because at the beginning the domains of ci servers used to testing were defined as follows:
+        jobs-ci.jobalinestaging.com, laboready-ci.jobalinestaging.com and so on.
+         -->
+		<applicationversion>notspecified</applicationversion>
+
+		<!--
+		Note that the subdomain will be concatenated without including the dot symbol, so if you put here: jobalinestaging.com it won't work. You must put: .jobalinestaging.com.
+		We should not be including the dot, this is legacy definition. At the beginning the domains of ci servers used for testing were defined as follows:
+		jobs-ci.jobalinestaging.com, laboready-ci.jobalinestaging.com and so on.
+		 -->
+		<!--<tests.autDomain>.amazon.com</tests.autDomain>-->
+		<tests.autDomain>.amazon.com/Rolodex-Round-Wastebasket-Diameter-22351/dp/B00006IALF/ref=sr_1_1?ie=UTF8&amp;qid=1474312458&amp;sr=8-1&amp;keywords=Wastebasket</tests.autDomain>
+
+
+		<tests.testConfigurationFile>testng.xml</tests.testConfigurationFile>
+
+		<!--
+		By default, set EMPTY-TEST which has 0 test cases. The reason is that if someone forgets to define the tests.testnames property or it has an
+		invalid value, this is, the value does not match to some test tag defined in testng.xml, TestNG will run nothing. If tests.testnames is empty or has
+		an invalid value, TestNG run all tests by default!
+		-->
+		<tests.testnames></tests.testnames>
+
+		<!--
+		 - tests.isTesterMachine: Tests are running in the machine of the tester, not in the CI environment (this is, in Jenkins)
+		 - tests.isCIMachine: Tests are running in the CI environment (this is, in Jenkins)
+		 - tests.isGrid: Tests will run in a Selenium grid. If false, tests will run using drivers for local browsers, this is, browsers installed in the same machine running the test.
+		 - tests.gridId: Specify which grid will be used. It allows us to configure properties of each grid, for example Sauce Labs timeouts. The ids of grids are defined in the class GridsIds.
+
+		 Note that tests.isTesterMachine, tests.isCIMachine, tests.isGrid accept true or false as well as 0 or 1.
+
+		 Default values are set to execute in Jenkins against Sauce Labs
+		 -->
+		<tests.isTesterMachine>0</tests.isTesterMachine> <!-- 0 means false -->
+		<tests.isCIMachine>0</tests.isCIMachine> <!-- 1 means true -->
+		<tests.isGrid>0</tests.isGrid> <!-- 1 means true -->
+		<tests.gridId>0</tests.gridId> <!-- 1 identifies a grid installed in the tester's machine. -->
+
+		<!--
+		 Edited for exercise 3
+		 -->
+		<tests.browserConfigurations>TESTERGRID_WINDOWS_CHROME</tests.browserConfigurations>
+		<!--<tests.browserConfigurations>TESTERGRID_WINDOWS_IE</tests.browserConfigurations>-->
+		<!--<tests.browserConfigurations>TESTERGRID_WINDOWS_FIREFOX</tests.browserConfigurations>-->
+		<!--<tests.browserConfigurations>DEFAULT_DESKTOP_BROWSER</tests.browserConfigurations>-->
+
+		<!--
+		 How long Selenium commands can delay. In seconds. 150 = 2 minutes and a half.
+		 -->
+		<tests.seleniumCommandTimeout>150</tests.seleniumCommandTimeout>
+
+		<!--
+		 How long Selenium must wait for next command. In seconds. 210 = 3 minutes and a half.
+		 -->
+		<tests.seleniumIdleTimeout>210</tests.seleniumIdleTimeout>
+
+		<!--
+		 How long Selenium must wait for next command. In seconds. 900 = 15 minutes and a half.
+		 -->
+		<tests.seleniumMaxDurationTimeout>900</tests.seleniumMaxDurationTimeout>
+
+	</properties>
+
+	<build>
+
+		<pluginManagement>
+
+			<plugins>
+
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>3.3</version>
+					<configuration>
+						<source>1.8</source>
+						<target>1.8</target>
+					</configuration>
+				</plugin>
+
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-resources-plugin</artifactId>
+					<version>2.7</version>
+					<configuration>
+						<encoding>UTF-8</encoding>
+					</configuration>
+				</plugin>
+
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>2.17</version>
+					<configuration>
+						<!--
+						Before setting parallelization parameters here like forkCount, reuseForks, parallel and threadCount read this doc about parallelization.
+						https://docs.google.com/a/jobaline.com/document/d/1FBD7GLLvlKlvevHQVj-xNOstQb06hBLFo6cpap1juPM
+						 -->
+
+						<!-- No JVM parallelization -->
+						<forkCount>0</forkCount>
+						<reuseForks>false</reuseForks>
+
+						<!-- Don't define tests to be parallel using Java Threads here, it is set in testng.xml
+						<parallel>false</parallel>
+						-->
+
+						<suiteXmlFiles>
+							<suiteXmlFile>${tests.testConfigurationFile}</suiteXmlFile>
+						</suiteXmlFiles>
+
+						<properties>
+							<property>
+								<name>testnames</name>
+								<value>${tests.testnames}</value>
+							</property>
+							<property>
+								<name>listener</name>
+								<value>com.jobaline.uiautomation.framework.testng.TestMethodsListener,
+									com.jobaline.uiautomation.framework.testng.retry.RetryNTimesTestListener</value>
+								<!--
+								The next 2 are the listeners that must be added if we want to use ReportNG:
+								org.uncommons.reportng.HTMLReporter, org.uncommons.reportng.JUnitXMLReporter
+								 -->
+							</property>
+							<workingDirectory>target/</workingDirectory>
+							<configfailurepolicy>continue</configfailurepolicy>
+						</properties>
+
+						<systemPropertyVariables>
+
+							<applicationversion>${applicationversion}</applicationversion>
+
+							<tests.autDomain>${tests.autDomain}</tests.autDomain>
+
+							<tests.isTesterMachine>${tests.isTesterMachine}</tests.isTesterMachine>
+							<tests.isCIMachine>${tests.isCIMachine}</tests.isCIMachine>
+							<tests.isGrid>${tests.isGrid}</tests.isGrid>
+							<tests.gridId>${tests.gridId}</tests.gridId>
+
+							<tests.seleniumCommandTimeout>${tests.seleniumCommandTimeout}</tests.seleniumCommandTimeout>
+							<tests.seleniumIdleTimeout>${tests.seleniumIdleTimeout}</tests.seleniumIdleTimeout>
+							<tests.seleniumMaxDurationTimeout>${tests.seleniumMaxDurationTimeout}</tests.seleniumMaxDurationTimeout>
+
+							<tests.browserConfigurations>${tests.browserConfigurations}</tests.browserConfigurations>
+
+							<!-- ReportNG Properties -->
+							<!-- Not Escape output for TestNG : Print curl sentence as it should be -->
+							<org.uncommons.reportng.escape-output>false</org.uncommons.reportng.escape-output>
+
+						</systemPropertyVariables>
+
+					</configuration>
+
+				</plugin>
+
+
+			</plugins>
+
+		</pluginManagement>
+
+	</build>
+
+	<dependencies>
+
+		<!-- TestNG dependency -->
+
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.8.8</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.sun.jersey.contribs</groupId>
+			<artifactId>jersey-multipart</artifactId>
+			<version>1.19</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-client</artifactId>
+			<version>1.19</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-core</artifactId>
+			<version>1.19</version>
+		</dependency>
+
+		<!-- ReportNG dependency -->
+
+		<!--
+		Disabling ReportNG. Actually this was never used, the reports we are using are generated directly by TestNG.
+		ReportNG could be enabled then if we want another html report maybe more beauty than the generated by TestNG.
+
+		<dependency>
+			<groupId>org.uncommons</groupId>
+			<artifactId>reportng</artifactId>
+			<version>1.1.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.google.inject</groupId>
+			<artifactId>guice</artifactId>
+			<version>3.0</version>
+		</dependency>
+
+		-->
+
+		<dependency>
+			<groupId>com.typesafe.akka</groupId>
+			<artifactId>akka-actor_2.11</artifactId>
+			<version>2.3.9</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.amazonaws</groupId>
+			<artifactId>aws-java-sdk</artifactId>
+			<version>1.9.33</version>
+		</dependency>
+
+		<!-- Selenium dependency -->
+
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>2.53.0</version>
+		</dependency>
+
+		<!-- This dependency was added when the version of Selenium was updated from 2.35 to 2.39. Apparently
+		Selenium was defining the dependency in 2.35 but not in 2.39 -->
+
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.3.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.velocity</groupId>
+			<artifactId>velocity</artifactId>
+			<version>1.7</version>
+		</dependency>
+
+		<!-- Logger dependency -->
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.16</version>
+			<scope>runtime</scope>
+		</dependency>
+
+		<!-- Ghostdriver -->
+
+		<dependency>
+			<groupId>com.github.detro</groupId>
+			<artifactId>phantomjsdriver</artifactId>
+			<version>1.2.0</version>
+		</dependency>
+
+		<!-- Java mail -->
+
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+			<version>1.4.7</version>
+		</dependency>
+
+		<!-- MYSQL -->
+
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.26</version>
+		</dependency>
+
+		<!-- MongoDB -->
+
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>2.12.4</version>
+		</dependency>
+
+		<!-- Twilio Client -->
+
+		<dependency>
+			<groupId>com.twilio.sdk</groupId>
+			<artifactId>twilio-java-sdk</artifactId>
+			<version>3.6.2</version>
+		</dependency>
+
+		<!-- Plivo Client -->
+
+		<dependency>
+			<groupId>com.plivo</groupId>
+			<artifactId>plivo-java</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>redis.clients</groupId>
+			<artifactId>jedis</artifactId>
+			<version>2.8.0</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-validator</groupId>
+			<artifactId>commons-validator</artifactId>
+			<version>1.4.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jsoup</groupId>
+			<artifactId>jsoup</artifactId>
+			<version>1.8.3</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20150729</version>
+		</dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-server</artifactId>
+            <version>2.39.0</version>
+        </dependency>
+
+    </dependencies>
+
+
+</project>

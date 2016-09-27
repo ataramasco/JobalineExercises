@@ -1,0 +1,36 @@
+[
+  {
+    "id": "example.ArticleSmokeTest",
+    "io": [
+      {
+        "input-data": {
+          "searchFormData": "search_data_0"
+        },
+        "input-entities": {}
+      }
+    ]
+  },
+  {
+    "id": "example.SearchSmokeTest",
+    "io": [
+      {
+        "input-data": {
+          "searchFormData": "search_data_0"
+        },
+        "input-entities": {}
+      },
+      {
+        "input-data": {
+          "searchFormData": "search_data_1"
+        },
+        "input-entities": {}
+      },
+      {
+        "input-data": {
+          "searchFormData": "search_data_2"
+        },
+        "input-entities": {}
+      }
+    ]
+  }
+]

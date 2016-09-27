@@ -1,0 +1,59 @@
+<div style='font-family: sans-serif'>
+
+	<div style='padding: 15px 0 20px 0; '>
+		<span style='font-size:17px; font-weight: bold;'>$testName</span>
+	</div>
+
+    <table cellpadding='0' cellspacing='0' style='padding: 0 0 10px 5px;'>
+        <tr>
+            <td style='margin: 0; padding: 5px 8px 5px 5px; border-left: 5px solid #CCC;'>
+				<span style="font-size: 12px;">Result</span>
+			</td>
+            <td style='text-align:left'>
+				<span style="font-size: 12px;">$resultText</span>
+			</td>
+        </tr>
+        <tr>
+            <td style='margin: 0; padding: 5px 8px 5px 5px; border-left: 5px solid #CCC;'>
+				<span style="font-size: 12px;">Browser</span>
+			</td>
+            <td style='text-align:left'>
+				<span style="font-size: 12px;">$browser</span>
+			</td>
+        </tr>
+        <tr>
+            <td style='margin: 0; padding: 5px 8px 5px 5px; border-left: 5px solid #CCC;'>
+				<span style="font-size: 12px;">Execution time</span>
+			</td>
+            <td style='text-align:left'>
+				<span style="font-size: 12px;">$executionTime</span>
+			</td>
+        </tr>
+        <tr>
+            <td style='margin: 0; padding: 5px 8px 5px 5px; border-left: 5px solid #CCC;'>
+                <span style="font-size: 12px;">Screenshots taken</span>
+            </td>
+            <td style='text-align:left'>
+                <span style="font-size: 12px;">$screenshotsFileNames.size()</span>
+            </td>
+        </tr>
+    </table>
+
+	<div style='padding: 15px 0 15px 0; '>
+		<span style='font-size:14px; font-weight: bold;'>Log</span>
+	</div>
+
+	#set( $i = 1 )
+	#foreach($screenshotFileName in $screenshotsFileNames)
+
+		<div style='position: relative; padding: 10px; margin: 0 0 10px 0; background-color: #BBB; float: left;'>
+            <span style="position: absolute; top: 1px; left: 1px; padding: 2px 5px; background: white; border: 1px solid black; font-size: 11px;">$i</span>
+			<img padding='0; margin: 0; background: transparent;' src='$screenshotFileName' style='max-width:900px;'>
+		</div>
+		<div style='clear:both;'></div>
+
+		#set( $i= $i + 1)
+	#end
+
+
+</div>
